@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-no-autofix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An ESLint config that imports eslint-plugin-no-autofix.",
   "keywords": [
     "eslint",
