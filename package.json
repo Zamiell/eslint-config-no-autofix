@@ -21,8 +21,9 @@
   "license": "MIT",
   "author": "Zamiell",
   "type": "commonjs",
+  "main": "index.js",
   "files": [
-    "index.cjs",
+    "index.js",
     "LICENSE",
     "package.json",
     "README.md"
